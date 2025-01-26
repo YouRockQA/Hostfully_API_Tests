@@ -61,7 +61,6 @@ Hostfully_project_test/
 │   ├── data_generators.py            # Functions to generate test data
 ├── .venv/                            # Virtual environment (ignored by git)
 ├── requirements.txt                  # Dependencies
-├── pytest.ini                        # Pytest configuration
 ├── README.md                         # Project documentation
 ├── TEST_PLAN.md                      # Test Plan documentation
 ```
